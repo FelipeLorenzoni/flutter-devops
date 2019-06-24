@@ -6,9 +6,10 @@ A new Flutter project.
 
 
 ## CI status
-
+Status Build Bitrise
 [![Build Status](https://app.bitrise.io/app/52f8b8d5ab75156b/status.svg?token=_c0JB2CHlE9K-U-P8YSA4Q&branch=master)](https://app.bitrise.io/app/52f8b8d5ab75156b)
-
+Status build Azure Devops
+[![Build status](https://dev.azure.com/briviadez/provaconceito/_apis/build/status/mobile-devops-POC)](https://dev.azure.com/briviadez/provaconceito/_build/latest?definitionId=33)
 ### Getting Started
 
 This project is a starting point for a Flutter application.
