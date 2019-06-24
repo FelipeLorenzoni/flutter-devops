@@ -1,3 +1,9 @@
 # 1.X
 
 este é um exemplo de release notes para ser utilizado na azuredevops
+
+# 1.XX
+
+Removida a tag de debug do aplicativo para exemplicar um novo
+
+release notes atualizado
